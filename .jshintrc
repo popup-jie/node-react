@@ -1,0 +1,23 @@
+{
+  "globals": {
+    "$": false,
+    "window": false,
+    "document": false
+  },
+  "curly": false,
+  "eqeqeq": true,
+  "boss": true,
+  "noarg": false,
+  "noempty": false,
+  "undef": false,
+  "unused": false,
+  "esversion": 6 ,
+  "asi": true,
+  "immed": false,
+  "expr": true,
+  "laxbreak": true,
+  "white": false,
+  "bitwise": false,
+  "futurehostile": false,
+  "strict":false
+}
